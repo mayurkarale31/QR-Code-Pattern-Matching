@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pattern Matching</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scanned_qr_code">Scanned QR Code</string>
+</resources>
